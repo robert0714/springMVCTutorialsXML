@@ -35,7 +35,7 @@
 		<jackson.version>2.5.1</jackson.version>
 		<specification-arg-resolver.version>0.4.1</specification-arg-resolver.version>
 		<swagger-springmvc.version>0.9.5</swagger-springmvc.version>
-		<xstream.version>1.4.3</xstream.version>
+		<xstream.version>1.4.18</xstream.version>
 		<websocket.client.version>9.3.15.v20161220</websocket.client.version>
 		<powermock.version>1.6.4</powermock.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
